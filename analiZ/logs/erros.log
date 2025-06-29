@@ -1,0 +1,259 @@
+2025-04-08 13:04:49,428 - ERROR - Erro em /exportar_pdf para WEGE3: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-04-08 13:16:25,821 - ERROR - Erro em /exportar_pdf para WEGE3: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-04-08 13:18:36,685 - ERROR - Erro em /exportar_pdf para WEGE3: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-04-08 18:56:44,420 - ERROR - Erro em /exportar_pdf para WEGE3: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-04-08 19:00:13,356 - ERROR - Erro em /exportar_pdf para WEGE3: Failed to start Kaleido subprocess. Error stream:
+
+/Users/maximiliano/Desktop/ChatbotTrader /botenv311/lib/python3.11/site-packages/kaleido/executable/kaleido: line 4: cd: /Users/maximiliano/Desktop/ChatbotTrader: No such file or directory
+/Users/maximiliano/Desktop/ChatbotTrader /botenv311/lib/python3.11/site-packages/kaleido/executable/kaleido: line 5: ./bin/kaleido: No such file or directory
+
+2025-04-08 19:04:36,024 - ERROR - Erro em /exportar_pdf para WEGE3: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-04-08 19:19:41,643 - ERROR - Erro em /exportar_pdf para WEGE3: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-04-09 19:44:08,406 - ERROR - Erro em /exportar_pdf para WEGE3: 'glyf'
+2025-04-09 20:09:50,147 - ERROR - Erro em /exportar_pdf para brfs3: 'glyf'
+2025-04-09 20:13:42,424 - ERROR - Erro em /exportar_pdf para brfs3: 'glyf'
+2025-04-09 20:13:47,261 - ERROR - Erro em /exportar_pdf para brfs3: 'glyf'
+2025-04-09 20:34:20,381 - ERROR - Erro em /exportar_pdf para brfs3: render_template() takes 1 positional argument but 2 were given
+2025-04-09 20:43:32,239 - ERROR - Erro em /exportar_pdf para BTC-USD: render_template() takes 1 positional argument but 2 were given
+2025-04-10 22:07:18,213 - ERROR - Erro em /exportar_pdf para CMIG3: 'glyf'
+2025-04-11 16:20:12,836 - ERROR - Erro em /exportar_pdf para ABEV3: 'glyf'
+2025-04-15 13:20:45,911 - ERROR - Erro em /exportar_pdf para sol-usd: module 'datetime' has no attribute 'now'
+2025-04-15 13:26:53,395 - ERROR - Erro em /exportar_pdf para sol-usd: module 'datetime' has no attribute 'now'
+2025-04-16 17:43:19,355 - ERROR - Erro em /exportar_pdf para sol-usd: Dados insuficientes para 'sol-usd' em ambas as fontes.
+2025-04-16 22:32:01,891 - ERROR - Erro em /exportar_pdf para sol-usb: Dados insuficientes para 'sol-usb' em ambas as fontes.
+2025-04-21 21:15:43,345 - ERROR - Erro em /exportar_pdf para sol-usd: ❌ Dados indisponíveis para 'sol-usd' em ambas as fontes.
+2025-04-22 16:01:28,042 - ERROR - Erro em /previsao_custom para SOL-USD: Dados insuficientes após limpeza para plotagem.
+2025-04-22 16:01:32,783 - ERROR - Erro em /previsao_custom para SOL-USD: Dados insuficientes após limpeza para plotagem.
+2025-04-22 16:05:58,291 - ERROR - Erro em /previsao_custom para SOL-USD: obter_dados() got an unexpected keyword argument 'intervalo'
+2025-04-22 16:05:59,896 - ERROR - Erro em /previsao_custom para SOL-USD: obter_dados() got an unexpected keyword argument 'intervalo'
+2025-04-22 16:06:10,681 - ERROR - Erro em /previsao_custom para SOL-USD: obter_dados() got an unexpected keyword argument 'intervalo'
+2025-04-22 16:06:15,995 - ERROR - Erro em /previsao_custom para SOL-USD: obter_dados() got an unexpected keyword argument 'intervalo'
+2025-04-22 16:29:45,730 - ERROR - Erro em /previsao_custom para SOL-USD: ❌ Dados indisponíveis para 'SOL-USD' em ambas as fontes.
+2025-04-22 16:30:44,816 - ERROR - Erro em /previsao_custom para SOL-USD: ❌ Dados indisponíveis para 'SOL-USD' em ambas as fontes.
+2025-04-22 16:31:40,112 - ERROR - Erro em /previsao_custom para SOL-USD: ❌ Dados indisponíveis para 'SOL-USD' em ambas as fontes.
+2025-04-22 16:32:06,428 - ERROR - Erro em /previsao_custom para SOL-USD: ❌ Dados indisponíveis para 'SOL-USD' em ambas as fontes.
+2025-04-22 16:32:06,428 - ERROR - Erro em /previsao_custom para SOL-USD: ❌ Dados indisponíveis para 'SOL-USD' em ambas as fontes.
+2025-04-22 17:07:54,920 - ERROR - Erro em /previsao_custom para SOL-USD: obter_dados() got an unexpected keyword argument 'periodo'
+2025-04-22 17:13:32,444 - ERROR - Erro em /previsao_custom para SOL-USD: 'Close'
+2025-04-22 17:22:02,770 - ERROR - Erro em /previsao_custom para SOL-USD: list index out of range
+2025-04-22 20:45:34,978 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 20:49:40,385 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 20:52:56,333 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 20:56:47,678 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 20:59:37,020 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 21:02:47,734 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 21:05:18,846 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 21:07:47,727 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 21:52:33,985 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-22 21:54:31,935 - ERROR - Erro em /previsao_custom para SOL-USD: type dict doesn't define __round__ method
+2025-04-23 00:33:22,079 - ERROR - Erro em /previsao_custom para SOL-USD: list index out of range
+2025-04-23 01:16:21,840 - ERROR - Erro em /previsao_custom para SOL-USD: list index out of range
+2025-04-23 13:02:24,016 - ERROR - Erro em /previsao_custom para SOLpendle-USD: 'Close'
+2025-04-23 13:16:07,147 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'cci' where it is not associated with a value
+2025-04-23 13:26:09,669 - ERROR - Erro em /previsao_custom para pendle-USD: '<' not supported between instances of 'NoneType' and 'int'
+2025-04-23 13:30:46,453 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-04-23 14:15:55,254 - ERROR - Dados insuficientes ou mal formatados para pendle-USD
+2025-04-23 14:23:59,651 - ERROR - Dados insuficientes ou mal formatados para pendle-USD
+2025-04-23 14:34:56,375 - ERROR - Dados insuficientes ou mal formatados para pendle-USD
+2025-04-23 14:54:25,581 - ERROR - Dados insuficientes ou mal formatados para pendle-USD
+2025-04-23 14:54:53,507 - ERROR - Erro em /previsao_custom para pendle-USD: unsupported operand type(s) for *: 'ellipsis' and 'float'
+2025-04-23 15:02:55,672 - ERROR - Dados insuficientes ou mal formatados para pendle-USD
+2025-04-23 15:12:39,880 - ERROR - Dados insuficientes ou mal formatados para pendle-USD
+2025-04-23 15:13:08,447 - ERROR - Dados insuficientes ou mal formatados para sol-USD
+2025-04-23 15:14:42,622 - ERROR - Dados insuficientes ou mal formatados para sol-USD
+2025-04-23 15:28:57,383 - ERROR - Dados insuficientes ou mal formatados para pendle-USD
+2025-04-23 15:29:00,958 - ERROR - Dados insuficientes ou mal formatados para pendle-USD
+2025-04-23 15:52:08,488 - ERROR - Dados insuficientes ou mal formatados para SOLpendle-USD (45min)
+2025-04-23 15:54:24,812 - ERROR - Dados insuficientes ou mal formatados para pendle-USD (45min)
+2025-04-23 15:54:26,108 - ERROR - Dados insuficientes ou mal formatados para pendle-USD (45min)
+2025-04-23 15:54:32,790 - ERROR - Dados insuficientes ou mal formatados para pendle-USD (45min)
+2025-04-23 15:55:23,977 - ERROR - Erro em /previsao_custom para pendle-USD: Request timed out.
+2025-04-25 01:47:49,840 - ERROR - Erro em /previsao_custom para sol-USD: unsupported operand type(s) for -: 'NoneType' and 'float'
+2025-04-25 01:53:22,142 - ERROR - Erro em /previsao_custom para sol-USD: unsupported operand type(s) for -: 'NoneType' and 'float'
+2025-04-25 01:59:32,618 - ERROR - Erro em /previsao_custom para sol-USD: unsupported operand type(s) for -: 'NoneType' and 'float'
+2025-04-25 02:00:26,389 - ERROR - Erro em /previsao_custom para sol-USD: unsupported operand type(s) for -: 'NoneType' and 'float'
+2025-04-25 02:02:38,026 - ERROR - Erro em /previsao_custom para sol-USD: unsupported operand type(s) for -: 'NoneType' and 'float'
+2025-04-25 15:54:43,477 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-04-25 16:18:29,661 - ERROR - Erro em /previsao_custom para pendle-USD: must be real number, not dict
+2025-04-25 16:50:28,823 - ERROR - Erro em /previsao_custom para pendle-USD: name 'obter_multiplicador_atr' is not defined
+2025-04-25 16:50:30,443 - ERROR - Erro em /previsao_custom para pendle-USD: name 'obter_multiplicador_atr' is not defined
+2025-04-25 16:54:45,754 - ERROR - Erro em /previsao_custom para pendle-USD: name 'obter_multiplicador_atr' is not defined
+2025-04-25 17:27:48,422 - ERROR - Erro em /previsao_custom para pendle-USD: must be real number, not dict
+2025-04-25 17:33:15,115 - ERROR - Erro em /previsao_custom para pendle-USD: must be real number, not dict
+2025-04-25 17:37:11,147 - ERROR - Erro em /previsao_custom para pendle-USD: must be real number, not dict
+2025-04-25 17:43:49,826 - ERROR - Erro em /previsao_custom para pendle-USD: must be real number, not dict
+2025-04-25 17:45:46,175 - ERROR - Erro em /previsao_custom para pendle-USD: must be real number, not dict
+2025-04-25 17:46:26,816 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-04-25 18:13:22,859 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:13:41,445 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:20:53,753 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:23:18,373 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:27:08,947 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:30:44,889 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:33:28,329 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:39:52,429 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:49:24,042 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-04-25 18:58:08,645 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 18:59:16,872 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 19:04:15,823 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 19:07:47,937 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 20:01:57,178 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 20:05:26,868 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 20:21:27,936 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 20:34:09,533 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 20:42:40,431 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 20:45:33,550 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 21:05:50,836 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 21:21:43,128 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 22:40:30,640 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 22:43:43,625 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 22:47:44,412 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 22:57:26,612 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 22:59:39,957 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 23:02:06,990 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-25 23:08:52,316 - ERROR - Erro em /previsao_custom para sol-USD: must be real number, not dict
+2025-04-26 01:01:06,786 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-04-29 19:41:33,507 - ERROR - Erro em /previsao_custom para pendle-USD: 'Close'
+2025-04-29 20:15:37,684 - ERROR - Erro em /previsao_custom para pendle-USD: 'Close'
+2025-04-29 20:33:11,284 - ERROR - Erro em /previsao_custom para pendle-USD: 'Close'
+2025-04-29 20:50:56,878 - ERROR - Erro em /previsao_custom para pendle-USD: 'Close'
+2025-04-29 23:15:24,316 - ERROR - Erro em /previsao_custom para pendle-USD: 'Close'
+2025-04-29 23:31:22,507 - ERROR - ⚠️ Indicadores não calculados corretamente para pendle-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-29 23:38:29,389 - ERROR - Erro em /previsao_custom para pendle-USD: calcular_indicadores() got an unexpected keyword argument 'intervalo'
+2025-04-29 23:49:03,458 - ERROR - Erro em /previsao_custom para pendle-USD: calcular_indicadores() got an unexpected keyword argument 'intervalo'
+2025-04-30 00:03:55,716 - ERROR - ⚠️ Indicadores não calculados corretamente para pendle-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 00:28:44,914 - ERROR - ⚠️ Indicadores não calculados corretamente para pendle-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 00:33:50,669 - ERROR - ⚠️ Indicadores não calculados corretamente para pendle-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 00:36:04,763 - ERROR - ⚠️ Indicadores não calculados corretamente para pendle-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 00:36:50,988 - ERROR - ⚠️ Indicadores não calculados corretamente para pendle-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 01:01:21,802 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-04-30 11:51:08,268 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-04-30 15:24:19,699 - ERROR - ⚠️ Indicadores não calculados corretamente para sol-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 15:27:39,168 - ERROR - ⚠️ Indicadores não calculados corretamente para sol-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 15:28:52,694 - ERROR - ⚠️ Indicadores não calculados corretamente para btc-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 15:37:21,617 - ERROR - ⚠️ Indicadores não calculados corretamente para sol-usd. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 15:39:42,073 - ERROR - Erro em /exportar_pdf para brfs3: float() argument must be a string or a real number, not 'dict'
+2025-04-30 15:52:42,537 - ERROR - ⚠️ Indicadores não calculados corretamente para btc-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 16:11:56,328 - ERROR - ⚠️ Indicadores não calculados corretamente para btc-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 16:17:25,538 - ERROR - ⚠️ Indicadores não calculados corretamente para btc-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 16:23:59,877 - ERROR - ⚠️ Indicadores não calculados corretamente para btc-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 16:26:55,797 - ERROR - ⚠️ Indicadores não calculados corretamente para btc-USD. Verifique candles insuficientes ou coluna 'Close' ausente.
+2025-04-30 17:48:30,077 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-04-30 21:32:04,758 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-04-30 21:37:42,373 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-04-30 21:45:00,689 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-04-30 22:25:55,379 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-01 11:01:00,046 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-05-01 13:42:16,191 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-05-01 15:55:39,225 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-05-01 15:55:39,227 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-05-01 17:12:38,428 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-03 17:32:28,613 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-05-06 00:55:54,759 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-07 00:48:55,803 - ERROR - Erro em /previsao_custom para btc-USD: 'Volume'
+2025-05-07 00:49:06,409 - ERROR - Erro em /previsao_custom para btc-USD: 'Volume'
+2025-05-07 00:49:16,449 - ERROR - Erro em /previsao_custom para btc-USD: 'Volume'
+2025-05-07 00:56:14,080 - ERROR - Erro em /previsao_custom para btc-USD: 'Volume'
+2025-05-07 01:10:28,246 - ERROR - Erro em /previsao_custom para btc-USD: Dados insuficientes para o ativo btc-USD.
+2025-05-07 01:10:38,482 - ERROR - Erro em /previsao_custom para btc-USD: Dados insuficientes para o ativo btc-USD.
+2025-05-07 01:14:17,218 - ERROR - Erro em /previsao_custom para btc-USD: Dados insuficientes para o ativo btc-USD.
+2025-05-07 01:16:44,981 - ERROR - Erro em /previsao_custom para btc-USD: Dados insuficientes para o ativo btc-USD.
+2025-05-07 11:58:38,940 - ERROR - Erro em /previsao_custom para btc-USD: Dados insuficientes para o ativo btc-USD.
+2025-05-07 12:09:48,637 - ERROR - Erro em /previsao_custom para btc-USD: Dados insuficientes para o ativo btc-USD.
+2025-05-07 14:45:36,087 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-07 17:31:53,272 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-07 23:33:27,409 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-08 12:44:05,786 - ERROR - Erro em /previsao_custom para sol-USD: list index out of range
+2025-05-08 12:54:53,631 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-08 18:53:04,093 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-08 19:16:38,298 - ERROR - Erro em /previsao_custom para pendle-USD: "[Timestamp('2025-05-07 21:00:00'), Timestamp('2025-05-07 22:00:00'), Timestamp('2025-05-07 23:00:00'), Timestamp('2025-05-08 00:00:00'), Timestamp('2025-05-08 01:00:00'), Timestamp('2025-05-08 02:00:00'), Timestamp('2025-05-08 03:00:00'), Timestamp('2025-05-08 04:00:00'), Timestamp('2025-05-08 05:00:00'), Timestamp('2025-05-08 06:00:00'), Timestamp('2025-05-08 07:00:00'), Timestamp('2025-05-08 08:00:00'), Timestamp('2025-05-08 09:00:00'), Timestamp('2025-05-08 10:00:00'), Timestamp('2025-05-08 11:00:00'), Timestamp('2025-05-08 12:00:00'), Timestamp('2025-05-08 13:00:00'), Timestamp('2025-05-08 14:00:00'), Timestamp('2025-05-08 15:00:00'), Timestamp('2025-05-08 16:00:00'), Timestamp('2025-05-08 17:00:00'), Timestamp('2025-05-08 18:00:00'), Timestamp('2025-05-08 19:00:00'), Timestamp('2025-05-08 21:00:00'), Timestamp('2025-05-08 22:00:00')] not in index"
+2025-05-08 19:16:49,140 - ERROR - Erro em /previsao_custom para pendle-USD: "[Timestamp('2025-05-07 21:00:00'), Timestamp('2025-05-07 22:00:00'), Timestamp('2025-05-07 23:00:00'), Timestamp('2025-05-08 00:00:00'), Timestamp('2025-05-08 01:00:00'), Timestamp('2025-05-08 02:00:00'), Timestamp('2025-05-08 03:00:00'), Timestamp('2025-05-08 04:00:00'), Timestamp('2025-05-08 05:00:00'), Timestamp('2025-05-08 06:00:00'), Timestamp('2025-05-08 07:00:00'), Timestamp('2025-05-08 08:00:00'), Timestamp('2025-05-08 09:00:00'), Timestamp('2025-05-08 10:00:00'), Timestamp('2025-05-08 11:00:00'), Timestamp('2025-05-08 12:00:00'), Timestamp('2025-05-08 13:00:00'), Timestamp('2025-05-08 14:00:00'), Timestamp('2025-05-08 15:00:00'), Timestamp('2025-05-08 16:00:00'), Timestamp('2025-05-08 17:00:00'), Timestamp('2025-05-08 18:00:00'), Timestamp('2025-05-08 19:00:00'), Timestamp('2025-05-08 21:00:00'), Timestamp('2025-05-08 22:00:00')] not in index"
+2025-05-08 19:20:17,294 - ERROR - Erro em /previsao_custom para pendle-USD: "[Timestamp('2025-05-07 21:00:00'), Timestamp('2025-05-07 22:00:00'), Timestamp('2025-05-07 23:00:00'), Timestamp('2025-05-08 00:00:00'), Timestamp('2025-05-08 01:00:00'), Timestamp('2025-05-08 02:00:00'), Timestamp('2025-05-08 03:00:00'), Timestamp('2025-05-08 04:00:00'), Timestamp('2025-05-08 05:00:00'), Timestamp('2025-05-08 06:00:00'), Timestamp('2025-05-08 07:00:00'), Timestamp('2025-05-08 08:00:00'), Timestamp('2025-05-08 09:00:00'), Timestamp('2025-05-08 10:00:00'), Timestamp('2025-05-08 11:00:00'), Timestamp('2025-05-08 12:00:00'), Timestamp('2025-05-08 13:00:00'), Timestamp('2025-05-08 14:00:00'), Timestamp('2025-05-08 15:00:00'), Timestamp('2025-05-08 16:00:00'), Timestamp('2025-05-08 17:00:00'), Timestamp('2025-05-08 18:00:00'), Timestamp('2025-05-08 19:00:00'), Timestamp('2025-05-08 21:00:00'), Timestamp('2025-05-08 22:00:00')] not in index"
+2025-05-08 19:25:35,334 - ERROR - Erro em /previsao_custom para pendle-USD: "[Timestamp('2025-05-07 21:00:00'), Timestamp('2025-05-07 22:00:00'), Timestamp('2025-05-07 23:00:00'), Timestamp('2025-05-08 00:00:00'), Timestamp('2025-05-08 01:00:00'), Timestamp('2025-05-08 02:00:00'), Timestamp('2025-05-08 03:00:00'), Timestamp('2025-05-08 04:00:00'), Timestamp('2025-05-08 05:00:00'), Timestamp('2025-05-08 06:00:00'), Timestamp('2025-05-08 07:00:00'), Timestamp('2025-05-08 08:00:00'), Timestamp('2025-05-08 09:00:00'), Timestamp('2025-05-08 10:00:00'), Timestamp('2025-05-08 11:00:00'), Timestamp('2025-05-08 12:00:00'), Timestamp('2025-05-08 13:00:00'), Timestamp('2025-05-08 14:00:00'), Timestamp('2025-05-08 15:00:00'), Timestamp('2025-05-08 16:00:00'), Timestamp('2025-05-08 17:00:00'), Timestamp('2025-05-08 18:00:00'), Timestamp('2025-05-08 19:00:00'), Timestamp('2025-05-08 21:00:00'), Timestamp('2025-05-08 22:00:00')] not in index"
+2025-05-08 19:25:46,953 - ERROR - Erro em /previsao_custom para pendle-USD: "[Timestamp('2025-05-07 21:00:00'), Timestamp('2025-05-07 22:00:00'), Timestamp('2025-05-07 23:00:00'), Timestamp('2025-05-08 00:00:00'), Timestamp('2025-05-08 01:00:00'), Timestamp('2025-05-08 02:00:00'), Timestamp('2025-05-08 03:00:00'), Timestamp('2025-05-08 04:00:00'), Timestamp('2025-05-08 05:00:00'), Timestamp('2025-05-08 06:00:00'), Timestamp('2025-05-08 07:00:00'), Timestamp('2025-05-08 08:00:00'), Timestamp('2025-05-08 09:00:00'), Timestamp('2025-05-08 10:00:00'), Timestamp('2025-05-08 11:00:00'), Timestamp('2025-05-08 12:00:00'), Timestamp('2025-05-08 13:00:00'), Timestamp('2025-05-08 14:00:00'), Timestamp('2025-05-08 15:00:00'), Timestamp('2025-05-08 16:00:00'), Timestamp('2025-05-08 17:00:00'), Timestamp('2025-05-08 18:00:00'), Timestamp('2025-05-08 19:00:00'), Timestamp('2025-05-08 21:00:00'), Timestamp('2025-05-08 22:00:00')] not in index"
+2025-05-08 19:32:02,173 - ERROR - Erro em /previsao_custom para pendle-USD: "[Timestamp('2025-05-07 21:00:00'), Timestamp('2025-05-07 22:00:00'), Timestamp('2025-05-07 23:00:00'), Timestamp('2025-05-08 00:00:00'), Timestamp('2025-05-08 01:00:00'), Timestamp('2025-05-08 02:00:00'), Timestamp('2025-05-08 03:00:00'), Timestamp('2025-05-08 04:00:00'), Timestamp('2025-05-08 05:00:00'), Timestamp('2025-05-08 06:00:00'), Timestamp('2025-05-08 07:00:00'), Timestamp('2025-05-08 08:00:00'), Timestamp('2025-05-08 09:00:00'), Timestamp('2025-05-08 10:00:00'), Timestamp('2025-05-08 11:00:00'), Timestamp('2025-05-08 12:00:00'), Timestamp('2025-05-08 13:00:00'), Timestamp('2025-05-08 14:00:00'), Timestamp('2025-05-08 15:00:00'), Timestamp('2025-05-08 16:00:00'), Timestamp('2025-05-08 17:00:00'), Timestamp('2025-05-08 18:00:00'), Timestamp('2025-05-08 19:00:00'), Timestamp('2025-05-08 21:00:00'), Timestamp('2025-05-08 22:00:00')] not in index"
+2025-05-08 20:15:59,126 - ERROR - Erro em /previsao_custom para pendle-USD: "[Timestamp('2025-05-07 22:00:00'), Timestamp('2025-05-07 23:00:00'), Timestamp('2025-05-08 00:00:00'), Timestamp('2025-05-08 01:00:00'), Timestamp('2025-05-08 02:00:00'), Timestamp('2025-05-08 03:00:00'), Timestamp('2025-05-08 04:00:00'), Timestamp('2025-05-08 05:00:00'), Timestamp('2025-05-08 06:00:00'), Timestamp('2025-05-08 07:00:00'), Timestamp('2025-05-08 08:00:00'), Timestamp('2025-05-08 09:00:00'), Timestamp('2025-05-08 10:00:00'), Timestamp('2025-05-08 11:00:00'), Timestamp('2025-05-08 12:00:00'), Timestamp('2025-05-08 13:00:00'), Timestamp('2025-05-08 14:00:00'), Timestamp('2025-05-08 15:00:00'), Timestamp('2025-05-08 16:00:00'), Timestamp('2025-05-08 17:00:00'), Timestamp('2025-05-08 18:00:00'), Timestamp('2025-05-08 19:00:00'), Timestamp('2025-05-08 20:00:00'), Timestamp('2025-05-08 22:00:00'), Timestamp('2025-05-08 23:00:00')] not in index"
+2025-05-08 20:33:12,265 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-11 01:07:23,745 - ERROR - Erro em /exportar_pdf para brfs3: float() argument must be a string or a real number, not 'dict'
+2025-05-11 14:17:18,009 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'preco_entrada' where it is not associated with a value
+2025-05-11 14:18:01,004 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'preco_entrada' where it is not associated with a value
+2025-05-11 14:51:02,029 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-11 20:36:44,825 - ERROR - Erro em /previsao_custom para pendle-USD: Encountered unknown tag 'endif'.
+2025-05-11 21:23:04,547 - ERROR - Erro em /previsao_custom para ray-USD: list index out of range
+2025-05-12 08:29:09,935 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-12 22:22:37,895 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-12 22:23:14,781 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'media_ponderada' where it is not associated with a value
+2025-05-14 15:27:30,431 - ERROR - Erro em /previsao_custom para pendle-USD: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+2025-05-14 15:27:51,512 - ERROR - Erro em /previsao_custom para pendle-USD: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+2025-05-14 15:28:38,374 - ERROR - Erro em /previsao_custom para pendle-USD: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+2025-05-14 15:29:30,502 - ERROR - Erro em /previsao_custom para pendle-USD: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+2025-05-14 15:57:17,690 - ERROR - Erro em /previsao_custom para pendle-USD: bloco_diagnostico_estrategico.html
+2025-05-14 19:07:26,394 - ERROR - Erro em /previsao_custom para pendle-USD: bloco_diagnostico_estrategico.html
+2025-05-14 22:13:23,516 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:14:20,053 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:18:46,221 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:18:46,559 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:19:10,444 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:19:21,102 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:31:47,404 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:37:17,026 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:37:18,623 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:37:41,627 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-14 22:40:05,164 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:40:22,957 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-14 22:43:48,300 - ERROR - Erro em /previsao_custom para pendle-USD: Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.
+2025-05-15 23:23:27,715 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-16 13:55:58,227 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-16 18:08:02,833 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'preco_atual' where it is not associated with a value
+2025-05-18 11:44:43,336 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-19 12:04:45,716 - ERROR - Erro em /previsao_custom para pendle-USD: Request timed out.
+2025-05-28 15:48:10,151 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-28 15:53:26,389 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-29 01:38:19,251 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'previsao_tail' where it is not associated with a value
+2025-05-29 01:39:20,534 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'previsao_tail' where it is not associated with a value
+2025-05-29 01:39:38,548 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'previsao_tail' where it is not associated with a value
+2025-05-29 11:15:54,948 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'previsao_tail' where it is not associated with a value
+2025-05-29 11:18:35,590 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'previsao_tail' where it is not associated with a value
+2025-05-29 11:18:45,550 - ERROR - Erro em /previsao_custom para pendle-USD: cannot access local variable 'previsao_tail' where it is not associated with a value
+2025-05-29 11:35:50,181 - ERROR - Erro em /previsao_custom para pendle-USD: name 'colunas_para_salvar' is not defined
+2025-05-29 11:35:52,885 - ERROR - Erro em /previsao_custom para pendle-USD: name 'colunas_para_salvar' is not defined
+2025-05-30 15:54:41,086 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-30 21:56:41,314 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-05-30 21:56:48,530 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-05-30 21:56:51,275 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-05-30 21:57:11,799 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-05-30 21:57:42,596 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-05-30 21:57:44,619 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-05-30 21:58:25,946 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-05-30 21:58:27,431 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-05-30 22:15:41,281 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-05-31 07:21:05,957 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-06-07 00:02:37,330 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
+2025-06-14 18:28:22,747 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-06-17 12:24:46,945 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-06-22 18:43:45,722 - ERROR - Erro em /previsao_custom para pendle-USD: list index out of range
+2025-06-25 13:11:19,668 - ERROR - Erro em /previsao_custom para pendle-USD: Invalid frequency: 1day, failed to parse with error message: ValueError("Invalid frequency: DAY, failed to parse with error message: KeyError('DAY')")
